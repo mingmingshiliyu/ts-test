@@ -5,6 +5,7 @@ import React from "react"
 //type State ={isLoading:true}
 //class Si extends React.Component<Props,State>{state={isLoading：false}}
 //并没有定义props,state自动推导出类型.props类型怎么定位成Props的，也没有显式定义props参数，怎么传进来的
+//函数只能接收一个参数？为什么书里这么说？(props,ref)为什么可以？
 type User ={name:"aaa"}
 
 type Request =
