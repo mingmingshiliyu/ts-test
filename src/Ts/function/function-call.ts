@@ -125,3 +125,5 @@ class Bird extends Animal{
 }
 (b:Bird)=>Bird
 //等价于(b:Bird)=>{return Bird}
+
+//https://blog.csdn.net/James_xyf/article/details/120775014
