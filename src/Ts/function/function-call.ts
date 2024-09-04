@@ -127,3 +127,6 @@ class Bird extends Animal{
 //等价于(b:Bird)=>{return Bird}
 
 //https://blog.csdn.net/James_xyf/article/details/120775014
+// Greeting 是一个 React 组件，它继承自 React.Component。
+// props 是 React.Component 的一个内置特性，你不需要在代码中显式地定义 props。
+// this.props 是一个包含组件所有传递属性的对象。在 render 方法中，你可以通过 this.props 访问这些属性，比如 this.props.name。
